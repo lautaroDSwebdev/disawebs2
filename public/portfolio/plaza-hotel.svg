@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#233128"/><stop offset="1" stop-color="#101614"/></linearGradient></defs>
+  <rect width="1200" height="750" fill="url(#g)"/>
+  <rect x="70" y="65" width="1060" height="620" rx="22" fill="#f1eee7"/>
+  <rect x="105" y="100" width="990" height="55" rx="8" fill="#e4dfd5"/>
+  <circle cx="145" cy="127" r="8" fill="#71826f"/><circle cx="172" cy="127" r="8" fill="#71826f"/>
+  <rect x="105" y="190" width="510" height="34" rx="6" fill="#c4b9a5"/>
+  <rect x="105" y="245" width="390" height="16" rx="8" fill="#d8d0c3"/>
+  <rect x="105" y="275" width="340" height="16" rx="8" fill="#d8d0c3"/>
+  <rect x="105" y="335" width="190" height="48" rx="9" fill="#27372c"/>
+  <rect x="650" y="190" width="390" height="300" rx="16" fill="#9cae9b"/>
+  <rect x="685" y="225" width="320" height="230" rx="10" fill="#738a74"/>
+  <rect x="105" y="555" width="990" height="80" rx="12" fill="#e4dfd5"/>
+  <text x="105" y="680" fill="#5d665d" font-family="Arial" font-size="18">VISTA PREVIA · PLAZA HOTEL</text>
+</svg>
